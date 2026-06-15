@@ -1,4 +1,4 @@
-# deconvolution-gpu
+# deconvolution-pipeline
 
 A Nextflow DSL2 pipeline for GPU-accelerated deskewing and deconvolution of light-sheet microscopy (ctASLM) TIFF volumes. The pipeline runs on SLURM and uses a conda environment managed by **mamba**. It requires **Java 17+** and **mamba** to be available on the cluster. Made for BioHPC @ UTSouthwestern. 
 
